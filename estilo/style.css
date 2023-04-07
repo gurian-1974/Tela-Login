@@ -46,7 +46,7 @@ section#tlogin{
 }
 section#tlogin > div#imagen{
     display: block;
-    background: #412A5E url(/img/fundo_tela.jpg) no-repeat;
+    background: #412A5E url(../img/fundo_tela.jpg) no-repeat;
     height: 200px;
     background-size: cover;
     background-position: right bottom;
